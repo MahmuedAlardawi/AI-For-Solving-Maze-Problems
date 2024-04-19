@@ -1,4 +1,4 @@
-# AI Group Project: Solving Maze Problems - CPCS-331
+# AI Project: Solving Maze Problems
 
 ## Introduction
 This project tackles the challenge of solving maze problems using Artificial Intelligence. Utilizing Depth-First Search (DFS) and Breadth-First Search (BFS) algorithms, this project aims to find optimal paths in randomly generated mazes. The project is implemented in Java and features a graphical user interface (GUI) to visualize the maze and the pathfinding process.
